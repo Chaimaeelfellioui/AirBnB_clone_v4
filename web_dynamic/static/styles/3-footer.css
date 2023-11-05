@@ -7,7 +7,7 @@ footer {
     border-top: 1px solid #CCCCCC;
 }
 footer p {
-    position: absolute;
+    position: absolute;  
     text-align: center;
     top: 10%;
     bottom: 0;
