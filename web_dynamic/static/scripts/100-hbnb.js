@@ -2,7 +2,7 @@ $(document).ready(init);
 
 const HOST = '0.0.0.0';
 const amenityObj = {};
-const stateObj = {};
+const stateObj = {}; 
 const cityObj = {};
 let obj = {};
 
